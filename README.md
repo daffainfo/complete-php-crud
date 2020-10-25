@@ -1,2 +1,4 @@
-# complete-php-crud
-PHP CRUD + Login and Register
+# Complete PHP CRUD
++ CRUD
++ Login and register
++ Admin login
